@@ -7,6 +7,18 @@
     --font2: 'Dancing Script', cursive;
 }
 
+::-webkit-scrollbar{
+    width: 10px;
+    background-color: #066d99b6;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #007db3;
+    border-radius: 50px;
+}
+
+
+
 *{
     margin: 0px;
     padding: 0px;
@@ -104,6 +116,11 @@ footer{
     background-color: #74b3ce;
     font-size: 30px;
     
+}
+
+footer > a{
+    color: #a6f8f8;
+    text-decoration: none;
 }
 
 
