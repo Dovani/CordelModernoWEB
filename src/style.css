@@ -91,7 +91,7 @@ section.normal{
 }
 
 section#img01{
-    background-image: url(../imagens/flower.jpg);
+    background-image: url(../imagens/Flowers.jpg);
     background-size: contain;
     background-position: right;
 }
@@ -101,7 +101,7 @@ section#img01 > p{
 }
 
 section#img02{
-    background-image: url(../imagens/cartacoracao.jpg);
+    background-image: url(../imagens/CartaCor.jpg);
     background-size: contain;
     background-position: right;
 }
